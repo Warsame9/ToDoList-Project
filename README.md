@@ -24,7 +24,7 @@ To Visit App:
 
 ## Reflection
 
-This project was created to showcase my knowledge with noSQL databases, It was also created to showcase my ability of making a application do CRUD(Create, Read, Update and Delete) operations.
+This project was created to showcase my knowledge with noSQL databases, It was also created to showcase my ability to make a application where an end user can delete and add data from the client side.
 
 I set out to build a web application that will allow a user to create a list of items they plan on achieving, I also set out to build the application in a way where the user would be able to delete items, create new list and have separate lists for different occasions.
 
